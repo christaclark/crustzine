@@ -1,1 +1,9 @@
-background: pink;
+body {
+   background-image: url("crust-landing-page-final.png");
+   background-color: #fadfd3;
+   background-position: center;
+   background-size: contain;
+   background-repeat: no-repeat;
+   text-align: center;
+   margin-top: 30%;
+}
